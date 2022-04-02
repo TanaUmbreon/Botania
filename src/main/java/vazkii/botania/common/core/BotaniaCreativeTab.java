@@ -363,6 +363,8 @@ public final class BotaniaCreativeTab extends CreativeTabs {
 			addBlock(pavementSlab);
 
 		addItem(ModItems.cosmetic);
+
+		addItem(ModItems.bouquetOfEndoflames);
 	}
 
 	private void addItem(Item item) {
