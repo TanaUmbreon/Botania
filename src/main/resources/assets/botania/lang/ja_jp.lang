@@ -1386,6 +1386,7 @@ item.botania:superCloudPendant.name=乱雲アミュレット
 item.botania:thirdEye.name=第三の眼
 item.botania:astrolabe.name=地形成形者のアストロラーベ
 item.botania:goddessCharm.name=慈悲深き女神のお守り
+item.botania:bouquetOfEndoflames.name=エンドフレイムの花束
 
 # LEXICON CATEGORIES
 botania.category.basics=基本と機構

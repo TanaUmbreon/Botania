@@ -165,6 +165,7 @@ public final class LibItemNames {
 	public static final String THIRD_EYE = "thirdEye";
 	public static final String ASTROLABE = "astrolabe";
 	public static final String GODDESS_CHARM = "goddessCharm";
+	public static final String BOUQUET_OF_ENDOFLAMES = "bouquetOfEndoflames";
 
 	public static final String[] LENS_NAMES = new String[] {
 			"lensNormal",

@@ -248,6 +248,7 @@ public final class ModItems {
 	public static final Item thirdEye = new ItemThirdEye();
 	public static final Item astrolabe = new ItemAstrolabe();
 	public static final Item goddessCharm = new ItemGoddessCharm();
+	public static final Item bouquetOfEndoflames = new ItemBouquetOfEndoflames();
 
 	@SubscribeEvent
 	public static void registerItems(RegistryEvent.Register<Item> evt) {
@@ -404,6 +405,7 @@ public final class ModItems {
 		r.register(thirdEye);
 		r.register(astrolabe);
 		r.register(goddessCharm);
+		r.register(bouquetOfEndoflames);
 
 		registerOreDictionary();
 	}
